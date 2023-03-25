@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/../karateFrameWorkProjectJunit4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../CucumberFrameworkProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../karateFrameworkJunit4Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../karateFrameworkProjectJunit5" vcs="Git" />
   </component>
 </project>
